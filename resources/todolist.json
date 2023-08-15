@@ -1,0 +1,8 @@
+{
+    "todolist":
+        [
+            {"task": "Buy milk", "status": false},
+            {"task": "Buy eggs", "status": false},
+            {"task": "Buy bread", "status": true}
+        ]
+}
